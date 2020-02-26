@@ -5,18 +5,18 @@
    
       <title>x-is.life</title>
    
-   <link>http://localhost:4000</link>
-   <description>격물 치지 성의 정심 수신 제가 치국 평천하</description>
+   <link></link>
+   <description>격물 치지 성의 정심</description>
    <language>en-uk</language>
    <managingEditor> </managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Gettysburg Address</title>
-	  <link>//gettysburg-address</link>
+	  <link>/rightagile.github.io/gettysburg-address</link>
 	  <author></author>
 	  <pubDate>1863-11-19T19:18:00+09:00</pubDate>
-	  <guid>//gettysburg-address</guid>
+	  <guid>/rightagile.github.io/gettysburg-address</guid>
 	  <description><![CDATA[
 	     <p>Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</p>
 
