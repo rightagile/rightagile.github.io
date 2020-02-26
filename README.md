@@ -1,1 +1,0 @@
-# rightagile.github.io
